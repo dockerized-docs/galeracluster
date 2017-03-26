@@ -6,8 +6,7 @@ Dockerzied Galera-Cluster documentation for offline use.
 # Image description #
 - Base image: `python:2.7`
 - The most current Galera-Cluster `master` branch is cloned and built using sphinx
-- GlusterFS ocumentation directory (`/documentation/galeracluster/build/dirhtml`) is linked to httpd `DocumentRoot` (`/var/www/html`)  
-
+- Galera-Cluster documentation directory (`/documentation/galeracluster/build/dirhtml`) is linked to httpd `DocumentRoot` (`/var/www/html`)  
 # How to use this image #
 
 ```console
