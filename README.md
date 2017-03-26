@@ -1,6 +1,6 @@
 # dockerized-docs-galeracluster
 
-# What is it?
+# What is it? #
 Dockerzied Galera-Cluster documentation for offline use.
 
 # Image description #
