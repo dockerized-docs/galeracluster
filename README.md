@@ -10,7 +10,7 @@ Dockerzied Galera-Cluster documentation for offline use.
 # How to use this image #
 
 ```console
-$ docker run -d genadipost/dockerized-docs-galeracluster
+$ docker run -d genadipost/galeracluster
 
 ```
 
